@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-This repo contains all artificial intelligence course projects.
+This repository contains all artificial intelligence course projects.
